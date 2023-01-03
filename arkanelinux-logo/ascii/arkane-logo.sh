@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Based on hyfetch by hykilpikonna
 # https://github.com/hykilpikonna/hyfetch
 # Code licensed under the MIT License
