@@ -27,8 +27,6 @@ set_colors() {
     c4="$(color "$4")${ascii_bold}"
     c5="$(color "$5")${ascii_bold}"
     c6="$(color "$6")${ascii_bold}"
-
-    [[ "$color_text" != "off" ]]
 }
 
 set_colors 130 130 237 15
